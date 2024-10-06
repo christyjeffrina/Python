@@ -2,14 +2,6 @@ Overview of Python Project Using Various Modules
 Project Title: Data Analysis and Visualization
 Objective: The goal of this project was to perform data analysis and visualization using Python. The project involved manipulating and analyzing datasets to extract meaningful insights, utilizing various Python modules including NumPy, Pandas, Matplotlib, and others within a Jupyter Notebook environment.
 
-
-
-
-Memory updated
-Overview of Python Project Using Various Modules
-Project Title: Data Analysis and Visualization
-Objective: The goal of this project was to perform data analysis and visualization using Python. The project involved manipulating and analyzing datasets to extract meaningful insights, utilizing various Python modules including NumPy, Pandas, Matplotlib, and others within a Jupyter Notebook environment.
-
 1. Python Modules Used
 NumPy
 Purpose: NumPy is a fundamental package for numerical computing in Python. It provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays.
@@ -30,6 +22,7 @@ Application in Project: Data visualizations created with Matplotlib included com
 Data Acquisition:
 
 Data was sourced from various platforms (e.g., public datasets, CSV files).
+such as diabets,BioStats
 Utilized Pandas to read and load data into DataFrames.
 Data Cleaning and Preparation:
 

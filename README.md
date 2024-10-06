@@ -44,14 +44,14 @@ Documented the analysis process and findings within the Jupyter Notebook, includ
 
 
 
-Outcomes and Insights
+3.Outcomes and Insights
 Identified key trends and patterns in the dataset through comprehensive analysis and visualizations.
 Enhanced skills in using Python for data analysis, understanding the importance of data manipulation, and visualization techniques.
 Gained practical experience in applying various Python modules to solve real-world data challenges.
 
 
 
-Conclusion
+4.Conclusion
 This hands-on project provided valuable experience in leveraging Python's powerful libraries for data analysis and visualization. The combination of NumPy, Pandas, and Matplotlib facilitated a comprehensive understanding of data manipulation, statistical analysis, and effective communication of findings through visual representation. The knowledge and skills gained through this project will serve as a solid foundation for future data-driven projects and analyses.
 
 
